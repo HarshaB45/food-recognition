@@ -1,8 +1,10 @@
-# Sugar - Diabetic Risk Assessment and Diet Recommendation
+# Food Recognition and Caloric Estimation
 
-# Live Demo
-The link for the live demo of the created application, showing the features that were implemented
-https://drive.google.com/file/d/18dlKw2sq1xCQqNfmkykeUHneBVfELQSg/view
+# Presentation
+The presentation for the project can be found here - 
+https://www.canva.com/design/DAGXe6o-ZqE/7x0XgjvVc54AECmbd1AYRQ/edit
+
+
 
 ## Problem Statement
 Diabetes is a widespread health issue, affecting millions of people globally. We aim to address the growing concern of diabetes by creating a system that helps individuals assess their likelihood of developing diabetes and provides tailored diet recommendations. This tool focuses on both individuals who have already been diagnosed with diabetes and those at risk of developing the condition.
