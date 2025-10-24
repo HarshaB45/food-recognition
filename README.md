@@ -1,12 +1,13 @@
 # Food Recognition and Caloric Estimation
 
-# Presentation
-The presentation for the project can be found here - 
+# Report and Presentation
+The presentation and project report can be found here - 
 https://www.canva.com/design/DAGXe6o-ZqE/7x0XgjvVc54AECmbd1AYRQ/edit
+https://docs.google.com/document/d/1WCZJXAZFkosD9DqV0xMMlfPjDnlHMO3byWVoZ2AY9fw/edit?tab=t.0
 
 
 
-## Problem Statement
+# Problem Statement
 Diabetes is a widespread health issue, affecting millions of people globally. We aim to address the growing concern of diabetes by creating a system that helps individuals assess their likelihood of developing diabetes and provides tailored diet recommendations. This tool focuses on both individuals who have already been diagnosed with diabetes and those at risk of developing the condition.
 
 ## Inspiration
